@@ -1,0 +1,8 @@
+Jenkins one of the open source
+ to build the code,check for test ad deploy the code and CI/CD pipeline
+ CI - Continous integration
+
+ Code build-- push- testing -CI - Manual deliver- Server
+  CD Contionu deliver
+
+Need to create the  Ec2 and install Jenkins or manual download
